@@ -1,3 +1,8 @@
+"""
+python function is a code which call on specific events like click, on change in input etc
+and also to reduce number of line of repeated code we use function
+"""
+
 def  cylinder_volume(radius, height=1) :
     print('radius', radius)
     print('height', height)
